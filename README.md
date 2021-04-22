@@ -4,7 +4,7 @@ This repository contains the implementation of a simple feed forward neural netw
 
 The code is based on the example in Michael Nielsens [(online) book](http://neuralnetworksanddeeplearning.com/) “Neural Networks and Deep Learning”. Additional features are: vectorization over mini batches, Adam optimizer, dropout, different activation and loss functions.
 
-First download the training data (four files) from [here](http://yann.lecun.com/exdb/mnist/) and put the files in a new subfolder `data/`, do not unzip them. Then you can train the network with the following code:
+For training download the data (four files) from [here](http://yann.lecun.com/exdb/mnist/) and put them in a new subfolder `data/`, do not unzip them. Now you can train the network with the following code:
 
 
 ```
